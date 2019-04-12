@@ -1,4 +1,4 @@
-baseURL = "http://lightning_talk_blog.github.io/"
+baseURL = "http://designing-rivers.github.io/lightning_talk_blog/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
